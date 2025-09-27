@@ -1,7 +1,7 @@
 # The Odin Project - Progress Tracker
 
-**Start Date:** September 26, 2025  
-**Current Course:** Foundations  
+**Start Date:** September 26, 2025
+**Current Course:** Foundations
 **Last Updated:** September 26, 2025
 
 ---
@@ -9,32 +9,40 @@
 ## Daily Progress Log
 
 ### Week 1 (Sept 26 - Oct 2, 2025)
-- [ ] **Day 1 (Sep 26)** - Repository setup, course overview
-- [ ] **Day 2 (Sep 27)** - 
-- [ ] **Day 3 (Sep 28)** - 
-- [ ] **Day 4 (Sep 29)** - 
-- [ ] **Day 5 (Sep 30)** - 
-- [ ] **Day 6 (Oct 1)** - 
-- [ ] **Day 7 (Oct 2)** - 
+
+- [ ] **Day 1 (Sep 26)**
+  - Repository setup, course overview
+  - Started with Fundamental OF HTML and CSS
+  - Started Project `Odin Recipes` as first Assignment
+
+- [ ] **Day 2 (Sep 27)**
+- [ ] **Day 3 (Sep 28)**
+- [ ] **Day 4 (Sep 29)**
+- [ ] **Day 5 (Sep 30)**
+- [ ] **Day 6 (Oct 1)**
+- [ ] **Day 7 (Oct 2)**
 
 ### Week 2 (Oct 3 - Oct 9, 2025)
-- [ ] **Day 8 (Oct 3)** - 
-- [ ] **Day 9 (Oct 4)** - 
-- [ ] **Day 10 (Oct 5)** - 
-- [ ] **Day 11 (Oct 6)** - 
-- [ ] **Day 12 (Oct 7)** - 
-- [ ] **Day 13 (Oct 8)** - 
-- [ ] **Day 14 (Oct 9)** - 
+
+- [ ] **Day 8 (Oct 3)**
+- [ ] **Day 9 (Oct 4)**
+- [ ] **Day 10 (Oct 5)**
+- [ ] **Day 11 (Oct 6)**
+- [ ] **Day 12 (Oct 7)**
+- [ ] **Day 13 (Oct 8)**
+- [ ] **Day 14 (Oct 9)**
 
 ---
 
 ## Course Progress Overview
 
 ### 🎯 Foundations (Prerequisites)
+
 **Status:** 🟡 In Progress  
 **Estimated Duration:** 40-60 hours  
 
 #### HTML Foundations
+
 - [ ] Introduction to HTML and CSS
 - [ ] Elements and Tags
 - [ ] HTML Boilerplate
@@ -44,6 +52,7 @@
 - [ ] Commit Messages
 
 #### CSS Foundations
+
 - [ ] Intro to CSS
 - [ ] The Cascade
 - [ ] Inspecting HTML and CSS
@@ -51,12 +60,14 @@
 - [ ] Block and Inline
 
 #### Flexbox
+
 - [ ] Introduction to Flexbox
 - [ ] Growing and Shrinking
 - [ ] Axes
 - [ ] Alignment
 
 #### JavaScript Basics
+
 - [ ] Fundamentals Part 1
 - [ ] Fundamentals Part 2
 - [ ] JavaScript Developer Tools
@@ -76,6 +87,7 @@
 ---
 
 ### 🎯 Intermediate HTML and CSS
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 25-35 hours  
 **21 Lessons | 2 Projects**
@@ -90,6 +102,7 @@
 ---
 
 ### 🎯 JavaScript
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 70-90 hours  
 **31 Lessons | 12 Projects**
@@ -120,6 +133,7 @@
 ---
 
 ### 🎯 Advanced HTML and CSS
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 25-35 hours  
 **15 Lessons | 1 Project**
@@ -133,6 +147,7 @@
 ---
 
 ### 🎯 React
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 50-70 hours  
 **23 Lessons | 3 Projects**
@@ -150,6 +165,7 @@
 ---
 
 ### 🎯 Databases
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 10-15 hours  
 **2 Lessons | 1 Project**
@@ -161,6 +177,7 @@
 ---
 
 ### 🎯 NodeJS
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 60-80 hours  
 **21 Lessons | 9 Projects**
@@ -186,6 +203,7 @@
 ---
 
 ### 🎯 Getting Hired
+
 **Status:** 🔴 Not Started  
 **Estimated Duration:** 15-25 hours  
 **12 Lessons | 2 Projects**
@@ -212,16 +230,19 @@
 ## Monthly Goals
 
 ### October 2025
+
 - [ ] Complete Foundations course
 - [ ] Start Intermediate HTML and CSS
 - [ ] Build first 3 projects (Rock Paper Scissors, Etch-a-Sketch, Calculator)
 
 ### November 2025
+
 - [ ] Complete Intermediate HTML and CSS
 - [ ] Start JavaScript course
 - [ ] Build Sign-up Form and Admin Dashboard projects
 
 ### December 2025
+
 - [ ] Progress through JavaScript course
 - [ ] Complete first JavaScript projects (Library, Tic Tac Toe)
 
@@ -230,18 +251,22 @@
 ## Notes & Reflections
 
 ### Key Learnings
+
 - 
 
 ### Challenges Faced
+
 - 
 
 ### Resources Found Helpful
+
 - 
 
 ### Code Snippets & Solutions
+
 - 
 
 ---
 
-**Last Updated:** September 26, 2025  
+**Last Updated:** September 27, 2025
 **Next Review Date:** October 3, 2025
