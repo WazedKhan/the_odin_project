@@ -1,3 +1,4 @@
+/* lesson 22: flexbox */
 .main {
     margin-top: 100px;
 }
@@ -22,11 +23,14 @@
     border: 1px solid #dfe1e5;
     border-radius: 24px;
 }
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
 
 .btn {
-    display: block  ;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 4px;
+    margin-right: 4px;
     margin-top: 30px;
     background: #dfe1e5;
     border: none;
